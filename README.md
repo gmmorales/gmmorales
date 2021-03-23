@@ -19,7 +19,7 @@
 #### <div align="center">SOBRE MI:</div>  
   
 
-- 💻Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+- 💻Mi nombre es Gustavo, actualmente me desempeño como Fullstack developer en Neoris.
   
 
 - 👩‍🎓Lorem Ipsum is simply dummy text of the printing and typesetting industry.  
