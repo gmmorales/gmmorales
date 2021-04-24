@@ -22,7 +22,7 @@
 - 💻Mi nombre es Gustavo, actualmente me desempeño como Fullstack developer en Neoris.
   
 
-- 👩‍🎓Actualmente me encuentro preparando el proyecto final integrador de la carrera de Ing. en telecomunicaciones.  
+- 👩‍🎓Actualmente me encuentro preparando el proyecto final integrador de la carrera de Ing. en telecomunicaciones(IUPFA).  
   
 
 - 📚 Lorem Ipsum is simply dummy text of the printing and typesetting industry.  
