@@ -19,7 +19,7 @@
 #### <div align="center">SOBRE MI:</div>  
   
 
-- 💻Mi nombre es Gustavo, actualmente me desempeño como Fullstack developer en Neoris.
+- 💻Mi nombre es Gustavo, actualmente me desempeño como Fullstack developer en Neoris. Ligado al proyecto AGEA (Grupo Clarín).
   
 
 - 👩‍🎓Actualmente me encuentro preparando el proyecto final integrador de la carrera de Ing. en telecomunicaciones(IUPFA).  
