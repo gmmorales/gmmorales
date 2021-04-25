@@ -25,7 +25,7 @@
 - 👩‍🎓Actualmente me encuentro preparando el proyecto final integrador de la carrera de Ing. en telecomunicaciones(IUPFA).  
   
 
-- 📚 Lorem Ipsum is simply dummy text of the printing and typesetting industry.  
+- 📚 Soy muy curioso y me gusta mucho aprender nuevas tecnologías las cuales trato de aplicar en distintos proyectos según se requiera.  
   
 
 - 🌱 Lorem Ipsum is simply dummy text of the printing and typesetting industry.    
