@@ -28,7 +28,7 @@
 - 📚 Soy muy curioso y me gusta mucho aprender nuevas tecnologías las cuales trato de aplicar en distintos proyectos según se requiera.  
   
 
-- 🌱 Lorem Ipsum is simply dummy text of the printing and typesetting industry.    
+- 🌱 Mi objetivo 2022 es poder aprender sobre el motor Unity de forma fluida y continuar profundizando sobre las tecnolgias y manejadas.    
   
 
 #### <div align="center">LAS TECNOLOGÌAS EN QUE MEJOR ME DESEMPEÑO SON </div>  
@@ -58,7 +58,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
