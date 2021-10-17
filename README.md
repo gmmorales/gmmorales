@@ -22,7 +22,7 @@
 - 💻Mi nombre es Gustavo, actualmente me desempeño como Fullstack developer en Neoris. Ligado al proyecto AGEA (Grupo Clarín).
   
 
-- 👩‍🎓Actualmente me encuentro preparando el proyecto final integrador de la carrera de Ing. en telecomunicaciones(IUPFA).  
+- 👩‍🎓Me encuentro preparando el proyecto final integrador de la carrera de Ing. en telecomunicaciones(IUPFA).  
   
 
 - 📚 Soy muy curioso y me gusta mucho aprender nuevas tecnologías las cuales trato de aplicar en distintos proyectos según se requiera.  
