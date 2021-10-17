@@ -34,7 +34,7 @@
 #### <div align="center">LAS TECNOLOGÌAS EN QUE MEJOR ME DESEMPEÑO SON </div>  
   
 
-- <b> 🎨 Frontend</b> : HTML5, CSS3, JS, JQUERY.   
+- <b> 🎨 Frontend</b> : HTML5, CSS3, JS, JQUERY, REACTJS.   
   
 
 - <b>📝 Backend</b> : Java 6 / 8 / 11, MVC, Python, PHP y SQL.  
