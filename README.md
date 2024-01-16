@@ -15,11 +15,11 @@
 </a>
 </a>
 <a href="https://sketchfab.com/gustavom.morales" target="_blank">
-<img src="https://img.shields.io/badge/sketchfab-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=sketchfab style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/sketchfab-%231E77B5.svg?&style=for-the-badge&logo=sketchfab&logoColor=white alt=sketchfab style="margin-bottom: 5px;" />
 </a>
 </div>  
   
-https://img.shields.io/badge/sketchfab-%231E77B5.svg
+
 #### <div align="center">SOBRE MI:</div>  
   
 
