@@ -26,13 +26,15 @@
 - 💻Mi nombre es Gustavo, actualmente me desempeño como Fullstack developer en Neoris. Ligado al proyecto AGEA (Grupo Clarín).
   
 
-- 👩‍🎓Egresado del Instituto Universitario de la Policía Federal (IUPFA) con el título de grado de ingeniero en telecomunicaciones.  
+- 👩‍🎓Egresado del Instituto Universitario de la Policía Federal (IUPFA) con el título de grado de ingeniero en telecomunicaciones.
+
+- 👩‍🎓Actualmente cursando la Tecnicatura Superior en Ciencias de Datos e Inteligencia Artificial en el IFTS24.  
   
 
 - 📚 Soy muy curioso y me gusta mucho aprender nuevas tecnologías las cuales trato de aplicar en distintos proyectos según se requiera.  
   
 
-- 🌱 Mi objetivo 2022 es poder aprender sobre el motor Unity de forma fluida y continuar profundizando sobre las tecnolgias y manejadas.    
+- 🌱 Mi objetivo 2024 es poder aprender sobre el motor Unity de forma fluida y continuar profundizando sobre las tecnolgias y manejadas.    
   
 
 #### <div align="center">LAS TECNOLOGÌAS EN QUE MEJOR ME DESEMPEÑO SON </div>  
