@@ -23,7 +23,7 @@
 #### <div align="center">SOBRE MI:</div>  
   
 
-- 💻Mi nombre es Gustavo, actualmente me desempeño como Fullstack developer en Neoris. Ligado al proyecto AGEA (Grupo Clarín).
+- 💻Mi nombre es Gustavo, actualmente me desempeño como Fullstack developer en Neoris.
   
 
 - 👩‍🎓Egresado del Instituto Universitario de la Policía Federal (IUPFA) con el título de grado de ingeniero en telecomunicaciones.
