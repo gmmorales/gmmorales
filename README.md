@@ -34,7 +34,7 @@
 - 📚 Soy muy curioso y me gusta mucho aprender nuevas tecnologías las cuales trato de aplicar en distintos proyectos según se requiera.  
   
 
-- 🌱 Mi objetivo 2025 es continuar capacitandome en Java de forma fluida y seguir adelante con la profundización de las tecnolgias y manejadas.    
+- 🌱 Mi objetivo 2025 es continuar capacitandome en Java de forma fluida y seguir adelante con la profundización de las tecnolgias manejadas.    
   
 
 #### <div align="center">LAS TECNOLOGÌAS EN QUE MEJOR ME DESEMPEÑO SON </div>  
